@@ -18,6 +18,8 @@ b. How to use the program:
   
  ![image](https://user-images.githubusercontent.com/56703569/224179356-1cde5a78-a35e-4888-9bcb-fe1524322135.png)
   
+    "r" read the shoes data, load the 
+  
   2. Choose the letter "e" if you want close the program
  
 c. Credits:
