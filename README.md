@@ -1,7 +1,7 @@
 # finalCapstone
 Name: inventory.py
 
-Description: it is a program that manages the inventory of shoes shop
+Description: it is a program that manages the inventory of shoes warehouse, it helps to track any iteam in the warehouse.  
 
 Content:  
   a. How to run the program  
