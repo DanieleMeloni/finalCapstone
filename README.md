@@ -23,6 +23,7 @@ b. How to use the program:
    "c" capture_shoes. Allow the user to enter a new iteam in the inventory
    
    "v" view all iteams. Show all iteams in the inventory using the tabulate module
+   
    ![image](https://user-images.githubusercontent.com/56703569/224542034-2fa48b75-b84c-416d-9c54-29f917ed65b2.png)
 
    "rs" restock. Add quantity to an existed iteam
