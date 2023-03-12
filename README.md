@@ -18,7 +18,23 @@ b. How to use the program:
   
  ![image](https://user-images.githubusercontent.com/56703569/224179356-1cde5a78-a35e-4888-9bcb-fe1524322135.png)
   
-    "r" read the shoes data, load the 
+   "r" read the shoes data. Load the "inventory.txt" text file into the program for visulization and change data
+   
+   "c" capture_shoes. Allow the user to enter a new iteam in the inventory
+   
+   "v" view all iteams. Show all iteams in the inventory using the tabulate module
+   ![image](https://user-images.githubusercontent.com/56703569/224542034-2fa48b75-b84c-416d-9c54-29f917ed65b2.png)
+
+   "rs" restock. Add quantity to an existed iteam
+   
+   "s" search shoe. It ascks the code of an iteam and show the iteam details
+   
+   ![image](https://user-images.githubusercontent.com/56703569/224543035-26158948-f19f-41c9-90a8-633a00bb5065.png)
+   
+   "vi" value per iteam. it shows the iteams's value by moltiply the quantity to the cost
+   ![image](https://user-images.githubusercontent.com/56703569/224543403-61abbf0d-2d22-4192-b01b-e870909c3aa9.png)
+
+
   
   2. Choose the letter "e" if you want close the program
  
